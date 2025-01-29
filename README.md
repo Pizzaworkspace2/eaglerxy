@@ -2,5 +2,5 @@
 📁 All files are provide by LuisRD71.
 🖥️ This is my own client ported to a github page.
 Please do not DMCA!
-🥰 Please for this repository and make your own github page for it to make more clients!
+🥰 Please fork this repository and make your own github page for it to make more clients!
 🔗 I will share link soon.
